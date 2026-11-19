@@ -1,0 +1,174 @@
+subject_id,group,Baseline,Last_visit,AESTDAT,AEENDAT,DAYS,Event,Duration,AETERM,AECAT,count,SIBLINB,DELMETH,Start,Stop_,SIB,start_,AE_number1,start_time_prev1,start_time_t,stop_time_t,Gap_Time
+R00039,CtrlF,0,150,12,12,12,0,0.0,Immunisation reaction,Other,1,2.0,Vaginal,12,12.0,2 or 3 Siblings,12,1,12,0,12,12
+R00153,SynF,0,146,8,13,8,1,5.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,8,13.0,2 or 3 Siblings,8,1,8,0,8,8
+R00030,SynF,0,144,140,147,140,0,7.0,Bronchitis,Other,1,1.0,Vaginal,140,147.0,1 Sibling,140,1,140,0,140,140
+R00071,SynF,0,148,55,61,55,1,6.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,3.0,Vaginal,55,61.0,2 or 3 Siblings,55,1,55,0,55,55
+R00202,CtrlF,0,151,7,21,7,1,14.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,5.0,Vaginal,7,21.0,4 or more,7,1,7,0,7,7
+R00212,SynF,0,155,66,70,66,1,4.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,66,70.0,1 Sibling,66,1,66,0,66,66
+R00139,CtrlF,0,145,15,22,15,1,7.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,,Vaginal,15,22.0,,15,1,15,0,15,15
+R00139,CtrlF,0,145,51,61,51,1,10.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,,Vaginal,51,61.0,,51,2,51,15,51,36
+R00155,CtrlF,0,147,121,132,121,0,11.0,Pneumonia,Other,1,,Vaginal,121,132.0,,121,1,121,0,121,121
+R00027,CtrlF,0,150,8,21,8,0,13.0,Viral pharyngitis,Other,1,1.0,Caesarean,8,21.0,1 Sibling,8,1,8,0,8,8
+R00184,SynF,0,145,84,84,84,0,0.0,Immunisation reaction,Other,1,1.0,Caesarean,84,84.0,1 Sibling,84,1,84,0,84,84
+R00241,CtrlF,0,150,12,12,12,0,0.0,Immunisation reaction,Other,1,1.0,Vaginal,12,12.0,1 Sibling,12,1,12,0,12,12
+R00026,CtrlF,0,,16,19,16,0,3.0,Nasopharyngitis,Other,1,2.0,Vaginal,16,19.0,2 or 3 Siblings,16,1,16,0,16,16
+R00026,CtrlF,0,,19,26,19,0,7.0,Pneumonia,Other,2,2.0,Vaginal,19,26.0,2 or 3 Siblings,19,2,19,16,19,3
+R00171,CtrlF,0,152,148,160,148,1,12.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Caesarean,148,160.0,2 or 3 Siblings,148,1,148,0,148,148
+R00238,SynF,0,152,5,10,5,1,5.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,5,10.0,1 Sibling,5,1,5,0,5,5
+R00238,SynF,0,152,10,15,10,0,5.0,Pneumonia,Other,2,1.0,Vaginal,10,15.0,1 Sibling,10,2,10,5,10,5
+R00238,SynF,0,152,80,86,80,1,6.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,3,1.0,Vaginal,80,86.0,1 Sibling,80,3,80,10,80,70
+R00183,CtrlF,0,151,150,156,150,0,6.0,Bronchitis,Other,1,2.0,Caesarean,150,156.0,2 or 3 Siblings,150,1,150,0,150,150
+R00123,SynF,0,154,150,156,150,0,6.0,Cough,Other,1,8.0,Vaginal,150,156.0,4 or more,150,1,150,0,150,150
+R00016,SynF,0,154,17,17,17,0,0.0,Immunisation reaction,Other,1,3.0,Vaginal,17,17.0,2 or 3 Siblings,17,1,17,0,17,17
+R00048,CtrlF,0,147,23,23,23,0,0.0,Immunisation reaction,Other,1,,Vaginal,23,23.0,,23,1,23,0,23,23
+R00234,CtrlF,0,154,13,17,13,0,4.0,Nasopharyngitis,Other,1,1.0,Vaginal,13,17.0,1 Sibling,13,1,13,0,13,13
+R00234,CtrlF,0,154,14,17,14,0,3.0,Cough,Other,2,1.0,Vaginal,14,17.0,1 Sibling,14,2,14,13,14,1
+R00056,CtrlF,0,152,164,176,164,1,12.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,164,176.0,2 or 3 Siblings,164,1,164,0,164,164
+R00091,SynF,0,157,143,154,143,1,11.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,143,154.0,1 Sibling,143,1,143,0,143,143
+R00151,CtrlF,0,156,91,98,91,1,7.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,91,98.0,1 Sibling,91,1,91,0,91,91
+R00207,SynF,0,151,10,23,10,0,13.0,Pneumonia,Other,1,3.0,Vaginal,10,23.0,2 or 3 Siblings,10,1,10,0,10,10
+R00129,CtrlF,0,157,13,23,13,1,10.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,13,23.0,2 or 3 Siblings,13,1,13,0,13,13
+R00177,SynF,0,155,146,162,146,0,16.0,Carbuncle,Other,1,4.0,Vaginal,146,162.0,4 or more,146,1,146,0,146,146
+R00108,SynF,0,152,148,152,148,1,4.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,3.0,Vaginal,148,152.0,2 or 3 Siblings,148,1,148,0,148,148
+R00025,SynF,0,145,138,152,138,0,14.0,Bronchitis,Other,1,2.0,Vaginal,138,152.0,2 or 3 Siblings,138,1,138,0,138,138
+R00182,CtrlF,0,,9,9,9,0,0.0,Pneumonia aspiration,Other,1,2.0,Vaginal,9,9.0,2 or 3 Siblings,9,1,9,0,9,9
+R00137,CtrlF,0,148,123,133,123,1,10.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,3.0,Vaginal,123,133.0,2 or 3 Siblings,123,1,123,0,123,123
+R00105,SynF,0,147,84,87,84,0,3.0,Gastroenteritis,Other,1,3.0,Vaginal,84,87.0,2 or 3 Siblings,84,1,84,0,84,84
+R00105,SynF,0,147,87,91,87,0,4.0,Gastroenteritis,Other,2,3.0,Vaginal,87,91.0,2 or 3 Siblings,87,2,87,84,87,3
+R00014,SynF,0,144,7,9,7,0,2.0,Pyrexia,Other,1,,Vaginal,7,9.0,,7,1,7,0,7,7
+R00014,SynF,0,144,21,26,21,0,5.0,Gastroenteritis,Other,2,,Vaginal,21,26.0,,21,2,21,7,21,14
+R00225,CtrlF,0,153,88,99,88,1,11.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,88,99.0,1 Sibling,88,1,88,0,88,88
+R00220,SynF,0,154,19,45,19,0,26.0,Dermatitis atopic,Other,1,1.0,Vaginal,19,45.0,1 Sibling,19,1,19,0,19,19
+R00162,SynF,0,154,84,96,84,1,12.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,,Vaginal,84,96.0,,84,1,84,0,84,84
+R00185,CtrlF,0,154,43,62,43,0,19.0,Nasopharyngitis,Other,1,4.0,Vaginal,43,62.0,4 or more,43,1,43,0,43,43
+R00084,SynF,0,148,143,151,143,0,8.0,Exanthema subitum,Other,1,3.0,Vaginal,143,151.0,2 or 3 Siblings,143,1,143,0,143,143
+R00124,SynF,0,151,140,147,140,0,7.0,Bronchitis,Other,1,,Caesarean,140,147.0,,140,1,140,0,140,140
+R00010,CtrlF,0,148,11,24,11,0,13.0,Pneumonia,Other,1,2.0,Vaginal,11,24.0,2 or 3 Siblings,11,1,11,0,11,11
+R00145,SynF,0,146,52,60,52,0,8.0,Bronchitis,Other,1,,Vaginal,52,60.0,,52,1,52,0,52,52
+R00200,SynF,0,147,18,69,18,0,51.0,Acarodermatitis,Other,1,,Vaginal,18,69.0,,18,1,18,0,18,18
+R00096,CtrlF,0,153,96,133,96,1,37.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,96,133.0,2 or 3 Siblings,96,1,96,0,96,96
+R00096,CtrlF,0,153,135,143,135,1,8.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,2.0,Vaginal,135,143.0,2 or 3 Siblings,135,2,135,96,135,39
+R00035,CtrlF,0,147,24,26,24,1,2.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,4.0,Vaginal,24,26.0,4 or more,24,1,24,0,24,24
+R00231,SynF,0,155,63,68,63,0,5.0,Nasopharyngitis,Other,1,2.0,Caesarean,63,68.0,2 or 3 Siblings,63,1,63,0,63,63
+R00020,CtrlF,0,154,47,61,47,1,14.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,3.0,Vaginal,47,61.0,2 or 3 Siblings,47,1,47,0,47,47
+R00075,CtrlF,0,154,118,162,118,0,44.0,Dermatitis atopic,Other,1,6.0,Vaginal,118,162.0,4 or more,118,1,118,0,118,118
+R00067,SynF,0,155,85,94,85,1,9.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,6.0,Vaginal,85,94.0,4 or more,85,1,85,0,85,85
+R00170,SynF,0,155,80,80,80,0,0.0,Immunisation reaction,Other,1,,Vaginal,80,80.0,,80,1,80,0,80,80
+R00052,SynF,0,146,85,92,85,1,7.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,3.0,Vaginal,85,92.0,2 or 3 Siblings,85,1,85,0,85,85
+R00076,SynF,0,158,157,163,157,1,6.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,3.0,Vaginal,157,163.0,2 or 3 Siblings,157,1,157,0,157,157
+R00028,CtrlF,0,159,55,64,55,1,9.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,1,,Vaginal,55,64.0,,55,1,55,0,55,55
+R00028,CtrlF,0,159,64,70,64,0,6.0,Bronchitis,Other,2,,Vaginal,64,70.0,,64,2,64,55,64,9
+R00028,CtrlF,0,159,151,157,151,0,6.0,Bronchitis,Other,3,,Vaginal,151,157.0,,151,3,151,64,151,87
+R00198,SynF,0,160,156,158,156,0,2.0,Nasopharyngitis,Other,1,3.0,Vaginal,156,158.0,2 or 3 Siblings,156,1,156,0,156,156
+R00157,SynF,0,150,3,15,3,0,12.0,Pneumonia,Other,1,1.0,Vaginal,3,15.0,1 Sibling,3,1,3,0,3,3
+R00157,SynF,0,150,102,108,102,0,6.0,Constipation,Other,2,1.0,Vaginal,102,108.0,1 Sibling,102,2,102,3,102,99
+R00157,SynF,0,150,123,126,123,0,3.0,Gastroenteritis,Other,3,1.0,Vaginal,123,126.0,1 Sibling,123,3,123,102,123,21
+R00157,SynF,0,150,146,150,146,0,4.0,Gastroenteritis,Other,4,1.0,Vaginal,146,150.0,1 Sibling,146,4,146,123,146,23
+R00197,CtrlF,0,147,53,57,53,1,4.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,,Caesarean,53,57.0,,53,1,53,0,53,53
+R00197,CtrlF,0,147,82,88,82,1,6.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,,Caesarean,82,88.0,,82,2,82,53,82,29
+R00197,CtrlF,0,147,139,156,139,0,17.0,Bronchial hyperreactivity,Other,3,,Caesarean,139,156.0,,139,3,139,82,139,57
+R00174,SynF,0,162,84,153,84,0,69.0,Breath sounds abnormal,Other,1,2.0,Vaginal,84,153.0,2 or 3 Siblings,84,1,84,0,84,84
+R00080,SynF,0,161,148,164,148,0,16.0,Childhood asthma,Other,1,2.0,Vaginal,148,164.0,2 or 3 Siblings,148,1,148,0,148,148
+R00022,CtrlF,0,149,49,50,49,0,1.0,Vaccination site pain,Other,1,2.0,Vaginal,49,50.0,2 or 3 Siblings,49,1,49,0,49,49
+R00021,SynF,0,148,52,56,52,0,4.0,Nasopharyngitis,Other,1,1.0,Caesarean,52,56.0,1 Sibling,52,1,52,0,52,52
+R00111,SynF,0,160,23,25,23,0,2.0,Cough,Other,1,1.0,Vaginal,23,25.0,1 Sibling,23,1,23,0,23,23
+R00111,SynF,0,160,36,70,36,0,34.0,Stridor,Other,2,1.0,Vaginal,36,70.0,1 Sibling,36,2,36,23,36,13
+R00064,CtrlF,0,153,143,147,143,0,4.0,Gastroenteritis viral,Other,1,1.0,Vaginal,143,147.0,1 Sibling,143,1,143,0,143,143
+R00166,CtrlF,0,154,20,21,20,0,1.0,Pyrexia,Other,1,3.0,Vaginal,20,21.0,2 or 3 Siblings,20,1,20,0,20,20
+R00166,CtrlF,0,154,147,150,147,0,3.0,Nasopharyngitis,Other,2,3.0,Vaginal,147,150.0,2 or 3 Siblings,147,2,147,20,147,127
+R00059,CtrlF,0,158,24,29,24,0,5.0,Respiratory tract infection,Other,1,3.0,Vaginal,24,29.0,2 or 3 Siblings,24,1,24,0,24,24
+R00059,CtrlF,0,158,24,32,24,0,8.0,Dermatitis diaper,Other,2,3.0,Vaginal,24,32.0,2 or 3 Siblings,24,2,24,24,24,0
+R00059,CtrlF,0,158,83,91,83,0,8.0,Pneumonia,Other,3,3.0,Vaginal,83,91.0,2 or 3 Siblings,83,3,83,24,83,59
+R00059,CtrlF,0,158,97,104,97,1,7.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,4,3.0,Vaginal,97,104.0,2 or 3 Siblings,97,4,97,83,97,14
+R00059,CtrlF,0,158,152,160,152,1,8.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,5,3.0,Vaginal,152,160.0,2 or 3 Siblings,152,5,152,97,152,55
+R00082,SynF,0,145,12,13,12,0,1.0,Pyrexia,Other,1,2.0,Caesarean,12,13.0,2 or 3 Siblings,12,1,12,0,12,12
+R00082,SynF,0,145,14,15,14,0,1.0,Rhinitis allergic,Other,2,2.0,Caesarean,14,15.0,2 or 3 Siblings,14,2,14,12,14,2
+R00082,SynF,0,145,59,59,59,0,0.0,Pyrexia,Other,3,2.0,Caesarean,59,59.0,2 or 3 Siblings,59,3,59,14,59,45
+R00082,SynF,0,145,68,70,68,0,2.0,Gastroenteritis,Other,4,2.0,Caesarean,68,70.0,2 or 3 Siblings,68,4,68,59,68,9
+R00082,SynF,0,145,135,145,135,0,10.0,Bronchitis,Other,5,2.0,Caesarean,135,145.0,2 or 3 Siblings,135,5,135,68,135,67
+R00042,CtrlF,0,162,19,25,19,1,6.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,19,25.0,2 or 3 Siblings,19,1,19,0,19,19
+R00110,SynF,0,146,46,47,46,0,1.0,Pyrexia,Other,1,1.0,Vaginal,46,47.0,1 Sibling,46,1,46,0,46,46
+R00110,SynF,0,146,48,50,48,1,2.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,2,1.0,Vaginal,48,50.0,1 Sibling,48,2,48,46,48,2
+R00110,SynF,0,146,144,150,144,1,6.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,3,1.0,Vaginal,144,150.0,1 Sibling,144,3,144,48,144,96
+R00191,CtrlF,0,161,56,56,56,0,0.0,Pyrexia,Other,1,,Vaginal,56,56.0,,56,1,56,0,56,56
+R00191,CtrlF,0,161,83,101,83,0,18.0,Dermatitis atopic,Other,2,,Vaginal,83,101.0,,83,2,83,56,83,27
+R00079,SynF,0,161,95,99,95,1,4.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,95,99.0,1 Sibling,95,1,95,0,95,95
+R00003,CtrlF,0,145,9,9,9,0,0.0,Pyrexia,Other,1,,Vaginal,9,9.0,,9,1,9,0,9,9
+R00003,CtrlF,0,145,51,57,51,0,6.0,Pneumonia,Other,2,,Vaginal,51,57.0,,51,2,51,9,51,42
+R00101,CtrlF,0,146,118,138,118,1,20.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,118,138.0,1 Sibling,118,1,118,0,118,118
+R00152,CtrlF,0,156,29,36,29,0,7.0,Cough,Other,1,2.0,Vaginal,29,36.0,2 or 3 Siblings,29,1,29,0,29,29
+R00152,CtrlF,0,156,94,96,94,0,2.0,Cough,Other,2,2.0,Vaginal,94,96.0,2 or 3 Siblings,94,2,94,29,94,65
+R00100,SynF,0,156,24,30,24,0,6.0,Cough,Other,1,1.0,Vaginal,24,30.0,1 Sibling,24,1,24,0,24,24
+R00081,SynF,0,156,66,73,66,0,7.0,Bronchitis,Other,1,4.0,Vaginal,66,73.0,4 or more,66,1,66,0,66,66
+R00081,SynF,0,156,96,97,96,0,1.0,Acute sinusitis,Other,2,4.0,Vaginal,96,97.0,4 or more,96,2,96,66,96,30
+R00150,CtrlF,0,156,93,97,93,0,4.0,Otorrhoea,Other,1,5.0,Vaginal,93,97.0,4 or more,93,1,93,0,93,93
+R00002,SynF,0,155,65,71,65,1,6.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,65,71.0,2 or 3 Siblings,65,1,65,0,65,65
+R00222,SynF,0,147,30,48,30,0,18.0,Cough,Other,1,3.0,Vaginal,30,48.0,2 or 3 Siblings,30,1,30,0,30,30
+R00160,SynF,0,157,35,39,35,0,4.0,Respiratory tract infection,Other,1,1.0,Vaginal,35,39.0,1 Sibling,35,1,35,0,35,35
+R00065,CtrlF,0,155,32,37,32,1,5.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,32,37.0,2 or 3 Siblings,32,1,32,0,32,32
+R00065,CtrlF,0,155,59,65,59,1,6.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,2.0,Vaginal,59,65.0,2 or 3 Siblings,59,2,59,32,59,27
+R00065,CtrlF,0,155,76,99,76,0,23.0,Breath sounds abnormal,Other,3,2.0,Vaginal,76,99.0,2 or 3 Siblings,76,3,76,59,76,17
+R00168,SynF,0,154,14,154,14,0,140.0,Cardiac murmur,Other,1,1.0,Vaginal,14,154.0,1 Sibling,14,1,14,0,14,14
+R00168,SynF,0,154,86,93,86,0,7.0,Bronchitis,Other,2,1.0,Vaginal,86,93.0,1 Sibling,86,2,86,14,86,72
+R00216,CtrlF,0,162,39,48,39,0,9.0,Dermatitis,Other,1,1.0,Vaginal,39,48.0,1 Sibling,39,1,39,0,39,39
+R00012,CtrlF,0,144,52,54,52,0,2.0,Respiratory tract infection,Other,1,6.0,Vaginal,52,54.0,4 or more,52,1,52,0,52,52
+R00203,SynF,0,144,3,10,3,0,7.0,Respiratory tract infection,Other,1,,Vaginal,3,10.0,,3,1,3,0,3,3
+R00203,SynF,0,144,84,89,84,1,5.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,,Vaginal,84,89.0,,84,2,84,3,84,81
+R00211,SynF,0,159,65,72,65,0,7.0,Bronchial hyperreactivity,Other,1,1.0,Vaginal,65,72.0,1 Sibling,65,1,65,0,65,65
+R00147,CtrlF,0,146,8,13,8,1,5.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,,Vaginal,8,13.0,,8,1,8,0,8,8
+R00147,CtrlF,0,146,24,30,24,1,6.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,,Vaginal,24,30.0,,24,2,24,8,24,16
+R00147,CtrlF,0,146,47,55,47,1,8.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,3,,Vaginal,47,55.0,,47,3,47,24,47,23
+R00154,CtrlF,0,143,36,39,36,0,3.0,Cough,Other,1,1.0,Vaginal,36,39.0,1 Sibling,36,1,36,0,36,36
+R00121,CtrlF,0,157,13,15,13,1,2.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,,Vaginal,13,15.0,,13,1,13,0,13,13
+R00121,CtrlF,0,157,96,118,96,1,22.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,,Vaginal,96,118.0,,96,2,96,13,96,83
+R00218,SynF,0,157,16,26,16,1,10.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,16,26.0,2 or 3 Siblings,16,1,16,0,16,16
+R00069,CtrlF,0,157,21,28,21,0,7.0,Breath sounds abnormal,Other,1,1.0,Vaginal,21,28.0,1 Sibling,21,1,21,0,21,21
+R00089,CtrlF,0,154,91,96,91,1,5.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Caesarean,91,96.0,1 Sibling,91,1,91,0,91,91
+R00090,CtrlF,0,157,35,45,35,0,10.0,Pneumonia,Other,1,1.0,Vaginal,35,45.0,1 Sibling,35,1,35,0,35,35
+R00116,SynF,0,155,15,22,15,0,7.0,Pneumonia,Other,1,3.0,Vaginal,15,22.0,2 or 3 Siblings,15,1,15,0,15,15
+R00199,SynF,0,159,97,104,97,1,7.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,97,104.0,2 or 3 Siblings,97,1,97,0,97,97
+R00072,CtrlF,0,152,92,103,92,0,11.0,Bronchitis,Other,1,3.0,Vaginal,92,103.0,2 or 3 Siblings,92,1,92,0,92,92
+R00070,CtrlF,0,151,12,42,12,0,30.0,Acarodermatitis,Other,1,1.0,Vaginal,12,42.0,1 Sibling,12,1,12,0,12,12
+R00229,CtrlF,0,158,69,72,69,0,3.0,Diarrhoea,Other,1,2.0,Vaginal,69,72.0,2 or 3 Siblings,69,1,69,0,69,69
+R00237,CtrlF,0,152,30,35,30,0,5.0,Cough,Other,1,,Vaginal,30,35.0,,30,1,30,0,30,30
+R00149,CtrlF,0,155,75,87,75,1,12.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,75,87.0,1 Sibling,75,1,75,0,75,75
+R00149,CtrlF,0,155,87,112,87,0,25.0,Pneumonia,Other,2,1.0,Vaginal,87,112.0,1 Sibling,87,2,87,75,87,12
+R00149,CtrlF,0,155,116,123,116,0,7.0,Pneumonia,Other,3,1.0,Vaginal,116,123.0,1 Sibling,116,3,116,87,116,29
+R00043,SynF,0,160,31,42,31,0,11.0,Pneumonia,Other,1,3.0,Caesarean,31,42.0,2 or 3 Siblings,31,1,31,0,31,31
+R00043,SynF,0,160,84,91,84,0,7.0,Respiratory tract infection,Other,2,3.0,Caesarean,84,91.0,2 or 3 Siblings,84,2,84,31,84,53
+R00175,CtrlF,0,147,23,36,23,1,13.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,3.0,Caesarean,23,36.0,2 or 3 Siblings,23,1,23,0,23,23
+R00175,CtrlF,0,147,84,98,84,1,14.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,3.0,Caesarean,84,98.0,2 or 3 Siblings,84,2,84,23,84,61
+R00011,SynF,0,143,70,74,70,1,4.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,,Vaginal,70,74.0,,70,1,70,0,70,70
+R00180,SynF,0,162,95,99,95,1,4.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,95,99.0,2 or 3 Siblings,95,1,95,0,95,95
+R00180,SynF,0,162,138,143,138,1,5.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,2,2.0,Vaginal,138,143.0,2 or 3 Siblings,138,2,138,95,138,43
+R00193,CtrlF,0,157,67,104,67,1,37.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,67,104.0,1 Sibling,67,1,67,0,67,67
+R00193,CtrlF,0,157,129,136,129,1,7.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,1.0,Vaginal,129,136.0,1 Sibling,129,2,129,67,129,62
+R00015,CtrlF,0,,0,3,0,1,3.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,0,3.0,2 or 3 Siblings,0,1,0,0,0,0
+R00210,CtrlF,0,159,61,81,61,1,20.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,4.0,Vaginal,61,81.0,4 or more,61,1,61,0,61,61
+R00235,SynF,0,158,18,101,18,0,83.0,Umbilical hernia,Other,1,,Vaginal,18,101.0,,18,1,18,0,18,18
+R00213,CtrlF,0,169,26,28,26,1,2.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,26,28.0,1 Sibling,26,1,26,0,26,26
+R00213,CtrlF,0,169,106,109,106,1,3.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,1.0,Vaginal,106,109.0,1 Sibling,106,2,106,26,106,80
+R00213,CtrlF,0,169,168,171,168,0,3.0,Pneumonia,Other,3,1.0,Vaginal,168,171.0,1 Sibling,168,3,168,106,168,62
+R00120,CtrlF,0,191,93,99,93,1,6.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,93,99.0,1 Sibling,93,1,93,0,93,93
+R00041,SynF,0,153,0,7,0,0,7.0,Erythema toxicum neonatorum,Other,1,1.0,Vaginal,0,7.0,1 Sibling,0,1,0,0,0,0
+R00078,CtrlF,0,162,71,82,71,1,11.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,71,82.0,2 or 3 Siblings,71,1,71,0,71,71
+R00046,CtrlF,0,166,15,31,15,1,16.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,,Vaginal,15,31.0,,15,1,15,0,15,15
+R00046,CtrlF,0,166,38,39,38,1,1.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,,Vaginal,38,39.0,,38,2,38,15,38,23
+R00046,CtrlF,0,166,56,66,56,1,10.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,3,,Vaginal,56,66.0,,56,3,56,38,56,18
+R00201,SynF,0,145,4,11,4,0,7.0,Pneumonia,Other,1,,Vaginal,4,11.0,,4,1,4,0,4,4
+R00201,SynF,0,145,27,47,27,1,20.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,,Vaginal,27,47.0,,27,2,27,4,27,23
+R00061,CtrlF,0,149,83,85,83,1,2.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Vaginal,83,85.0,2 or 3 Siblings,83,1,83,0,83,83
+R00215,CtrlF,0,147,56,70,56,1,14.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,5.0,Vaginal,56,70.0,4 or more,56,1,56,0,56,56
+R00215,CtrlF,0,147,88,95,88,1,7.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,2,5.0,Vaginal,88,95.0,4 or more,88,2,88,56,88,32
+R00230,SynF,0,154,29,33,29,1,4.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,2.0,Caesarean,29,33.0,2 or 3 Siblings,29,1,29,0,29,29
+R00230,SynF,0,154,53,63,53,0,10.0,Pneumonia,Other,2,2.0,Caesarean,53,63.0,2 or 3 Siblings,53,2,53,29,53,24
+R00122,SynF,0,163,0,20,0,1,20.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,3.0,Vaginal,0,20.0,2 or 3 Siblings,0,1,0,0,0,0
+R00088,CtrlF,0,147,38,53,38,1,15.0,Upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Vaginal,38,53.0,1 Sibling,38,1,38,0,38,38
+R00136,SynF,0,161,14,25,14,1,11.0,Viral upper respiratory tract infection,Upper Respiratory Tract Infection,1,1.0,Caesarean,14,25.0,1 Sibling,14,1,14,0,14,14
+R00136,SynF,0,161,126,130,126,0,4.0,Arthropod bite,Other,2,1.0,Caesarean,126,130.0,1 Sibling,126,2,126,14,126,112
+R00136,SynF,0,161,126,130,126,0,4.0,Dermatitis atopic,Other,3,1.0,Caesarean,126,130.0,1 Sibling,126,3,126,126,126,0
+R00095,CtrlF,0,161,20,30,20,0,10.0,Seborrhoeic dermatitis,Other,1,3.0,Vaginal,20,30.0,2 or 3 Siblings,20,1,20,0,20,20
+R00095,CtrlF,0,161,127,130,127,0,3.0,Urinary tract infection,Other,2,3.0,Vaginal,127,130.0,2 or 3 Siblings,127,2,127,20,127,107
+R00095,CtrlF,0,161,130,137,130,0,7.0,Pneumonia,Other,3,3.0,Vaginal,130,137.0,2 or 3 Siblings,130,3,130,127,130,3
+R00058,CtrlF,0,166,,,166,0,,,Other,1,4.0,Vaginal,166,,4 or more,166,1,166,0,166,166
+R00233,SynF,0,155,83,88,83,0,5.0,Pneumonia,Other,1,3.0,Vaginal,83,88.0,2 or 3 Siblings,83,1,83,0,83,83

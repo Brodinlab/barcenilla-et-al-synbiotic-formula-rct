@@ -1,0 +1,43 @@
+load_base_tables <- function(root) {
+  load_required_packages(c("readr", "dplyr"))
+
+  base_dir <- file.path(root, "data", "tables")
+
+  metadata <- readr::read_csv(file.path(base_dir, "metadata.csv"), show_col_types = FALSE)
+  cytof_manual <- readr::read_csv(file.path(base_dir, "cytof_manual_gating_frequency.csv"), show_col_types = FALSE)
+  cytof_manual_clean <- readr::read_csv(file.path(base_dir, "cytof_manual_gating_frequency_clean.csv"), show_col_types = FALSE)
+  olink_npx_wide <- readr::read_csv(file.path(base_dir, "olink_npx_wide.csv"), show_col_types = FALSE)
+  olink_npx_clean <- readr::read_csv(file.path(base_dir, "olink_npx_clean.csv"), show_col_types = FALSE)
+  olink_metadata <- readr::read_csv(file.path(base_dir, "olink_metadata.csv"), show_col_types = FALSE)
+  vaccine_igg <- readr::read_csv(file.path(base_dir, "vaccine_igg_zscore.csv"), show_col_types = FALSE)
+
+  # Normalize ID types for reliable joins
+  if ("cytof_id" %in% colnames(metadata)) metadata$cytof_id <- as.character(metadata$cytof_id)
+  if ("cytof_id" %in% colnames(cytof_manual)) cytof_manual$cytof_id <- as.character(cytof_manual$cytof_id)
+  if ("cytof_id" %in% colnames(cytof_manual_clean)) cytof_manual_clean$cytof_id <- as.character(cytof_manual_clean$cytof_id)
+
+  # Drop intermediate/complement gating-hierarchy populations (common.R,
+  # MANUAL_GATING_EXCLUDED_POPULATIONS) from both in-memory tables -- the raw
+  # CSVs on disk are left untouched (never edit raw data); every consumer of
+  # base$cytof_manual / base$cytof_manual_clean gets the filtered set for
+  # free, so no per-script filtering needed downstream.
+  cytof_manual <- cytof_manual |>
+    dplyr::select(-dplyr::any_of(MANUAL_GATING_EXCLUDED_POPULATIONS))
+  cytof_manual_clean <- cytof_manual_clean |>
+    dplyr::select(-dplyr::any_of(MANUAL_GATING_EXCLUDED_POPULATIONS))
+
+  if ("SampleID" %in% colnames(olink_npx_wide)) olink_npx_wide$SampleID <- as.character(olink_npx_wide$SampleID)
+  if ("SampleID" %in% colnames(olink_npx_clean)) olink_npx_clean$SampleID <- as.character(olink_npx_clean$SampleID)
+  if ("SampleID" %in% colnames(olink_metadata)) olink_metadata$SampleID <- as.character(olink_metadata$SampleID)
+
+  list(
+    metadata = metadata,
+    cytof_manual = cytof_manual,
+    cytof_manual_clean = cytof_manual_clean,
+    olink_npx_wide = olink_npx_wide,
+    olink_npx_clean = olink_npx_clean,
+    olink_metadata = olink_metadata,
+    vaccine_igg = vaccine_igg
+  )
+}
+
