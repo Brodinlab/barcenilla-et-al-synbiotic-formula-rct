@@ -1,7 +1,7 @@
 # Figure map — Chen et al, synbiotic formula RCT trial manuscript (Sep 2026, *Nature Medicine* submission)
 
 This repository contains code and data **only** for the figures below. Microbiome and
-metabolomics (Fig. 4, Fig. 6, Suppl. Fig. 2) are deliberately not included (privacy).
+metabolomics figures (Fig. 4, Fig. 6, Suppl. Figs. 1-2) have no scripts here yet; their data are in the Supplementary Data.
 Run all scripts from the repository root. Order for Fig. 5e–g:
 `wgcna_cytof_olink_modules_finegrained.R` → `wgcna_module3_feature_tables.R` →
 `wgcna_module_feeding_interaction.R` → `wgcna_finegrained_brown_splitviolin.R`.
@@ -10,6 +10,7 @@ Run all scripts from the repository root. Order for Fig. 5e–g:
 |---|---|---|
 | Fig. 2a–d growth z-scores | `scripts/figures/fig2/Fig2_growth_zscores_panels_abcd.R` | `Fig2_growth_zscores_panels_abcd.pdf` (data: `data/tables/anthropometrics_zscores.csv`) |
 | Fig. 2e IGSQ-13 | `scripts/figures/fig2/Fig2E_igsq13_gi_tolerance.R` | `Fig2E_igsq13_gi_tolerance.pdf` (data: `data/tables/igsq13_scores.csv`) |
+| Fig. 3 fecal biomarkers | `scripts/figures/fig3/Fig3_fecal_biomarkers.R` | `Fig3_fecal_biomarkers.pdf` (data: `data/tables/fecal_biomarkers.csv`; tests: `output/tables/fecal_biomarkers_group_tests.csv`, ANCOVA adjusted for baseline and sex, without study centre) |
 | Fig. 5a–b PCA + biplot | `scripts/figures/fig5/Fig5_manualgating_pca_biplot_dist10_excluded.R` | `Fig5_manualgating_pca_biplot_dist10_excluded.pdf` |
 | Fig. 5c pseudotime by feeding | `scripts/figures/fig5/fig5_pseudotime_manualgating_by_feeding.R` | `fig5_pseudotime_manualgating_by_group.pdf` |
 | Fig. 5d Olink volcano (change from baseline) | `scripts/figures/fig5/Fig5_olink_synf_ctrlf_stats.R` | `Fig5_olink_volcano_change_from_baseline.pdf` |
@@ -22,7 +23,7 @@ Run all scripts from the repository root. Order for Fig. 5e–g:
 
 ## Not reproducible from this repository
 - **Fig. 1** — graphical trial-design drawing.
-- **Fig. 3** — no script in this repository.
+- **Figs. 4 and 6** — no script in this repository yet.
 - **Suppl. Figs. 1 and 3** — not code-generated here / not audited.
 
 ## Notes

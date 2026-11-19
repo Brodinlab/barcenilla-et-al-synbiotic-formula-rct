@@ -36,7 +36,7 @@ CyTOF, Olink and vaccine samples are linked through `metadata.csv` (`cytof_id`, 
 `vaccine_id`).
 
 Only figures shown in the manuscript have code and data here; see `scripts/figures/FIGURE_MAP.md`.
-Microbiome and metabolomics data are deliberately not included.
+Microbiome and metabolomics data (Figs. 4 and 6) are not yet part of this repository; they are available in the Supplementary Data (`microbiome_metabolomics_data.xlsx`). `data/tables/fecal_biomarkers.csv` (Fig. 3) is taken from the Biomarkers sheet of that file, and `data/tables/demographics.csv` (sex, enrolment age, delivery mode) from the Demographics sheet of `Demographics_AEs_outcomes.xlsx`.
 
 ### Data protection
 
